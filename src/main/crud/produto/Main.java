@@ -1,4 +1,4 @@
-package com.crud.produto;
+package main.crud.produto;
 
 public class Main {
     public static void main(String[] args) {

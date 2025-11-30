@@ -1,8 +1,6 @@
 package main.crud.produto.view;
 
 import main.crud.produto.model.Cliente;
-import main.crud.produto.model.Produto;
-import main.crud.produto.view.LojaView;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
